@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class TransposeMatrix {
 
     /**
-     * Transposes 2D array by diagonal (swap raws and columns).
+     * Transposes 2D array by diagonal (swaps raws and columns).
      */
     public static int[][] transpose(int[][] matrix) {
 
